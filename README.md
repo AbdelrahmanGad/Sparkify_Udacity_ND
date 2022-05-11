@@ -21,7 +21,7 @@ This is the Udacity Data Scientist Nanodegree Capstone project. The goal is to a
 * [Notebook](https://github.com/AbdelrahmanGad/Sparkify_Udacity_ND/blob/main/Sparkify.ipynb) : Jubyter notebook including all data manipulation ad analysis for this project
 
 ## Blog Post:
-* [Blog Post](https://github.com/AbdelrahmanGad/Sparkify_Udacity_ND/blob/main/Sparkify_Post.md) : rsulted blog post from analysis
+* [Blog Post](https://github.com/AbdelrahmanGad/Sparkify_Udacity_ND/blob/main/Sparkify_post.pdf) : rsulted blog post from analysis
 
 ## Results:
 We developed a model to recognize churning customers of the Sparkify music streaming service for this project. To acquire a feel for the data, I first did some data exploration. After then, We started to add features. We trained (Logistic regression, Random forest classifier, Gradient boost and Decision tree) models once We obtained a dataset. The Random forest classifier had the best results.
